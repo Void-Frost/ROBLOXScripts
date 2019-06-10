@@ -1,3 +1,4 @@
+--MUST BE RUN ON THE SERVER
 --Flings every player (even you)
 --Version 1.0 (newest version is always on my github www.github.com/Void-Frost)
 --All credit goes to Void_Frost www.youtube.com/VoidFrost @VoidFrost1 on twitter.
