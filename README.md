@@ -1,3 +1,6 @@
 # ROBLOX SCRIPT REPO
 For roblox script builders.
 All scripts made by me, Void_Frost.
+
+
+ALL CODE IS AS IS. RUN ON YOUR COMPUTER AT YOUR OWN RISK. NOT RESPONSIBLE FOR ANY DAMAGES THIS CODE DOES.
