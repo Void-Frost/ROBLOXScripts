@@ -1,3 +1,6 @@
+--MUST BE RUN ON THE CLIENT
+--Version 1.0 (newest version is always on my github www.github.com/Void-Frost)
+--MADE BY TestingPlant www.github.com/TestingPlant
 print(
 [[Welcome to Aimbot!
 ^focus/playerName - focus on a specific player
